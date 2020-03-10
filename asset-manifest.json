@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poc-grid/static/css/main.4bd5b39e.chunk.css",
+    "main.js": "/poc-grid/static/js/main.18063750.chunk.js",
+    "main.js.map": "/poc-grid/static/js/main.18063750.chunk.js.map",
+    "runtime-main.js": "/poc-grid/static/js/runtime-main.63605d95.js",
+    "runtime-main.js.map": "/poc-grid/static/js/runtime-main.63605d95.js.map",
+    "static/js/2.fb406a45.chunk.js": "/poc-grid/static/js/2.fb406a45.chunk.js",
+    "static/js/2.fb406a45.chunk.js.map": "/poc-grid/static/js/2.fb406a45.chunk.js.map",
+    "index.html": "/poc-grid/index.html",
+    "precache-manifest.12f20c973a7f66d6b187900e314dbdf0.js": "/poc-grid/precache-manifest.12f20c973a7f66d6b187900e314dbdf0.js",
+    "service-worker.js": "/poc-grid/service-worker.js",
+    "static/css/main.4bd5b39e.chunk.css.map": "/poc-grid/static/css/main.4bd5b39e.chunk.css.map",
+    "static/js/2.fb406a45.chunk.js.LICENSE.txt": "/poc-grid/static/js/2.fb406a45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63605d95.js",
+    "static/js/2.fb406a45.chunk.js",
+    "static/css/main.4bd5b39e.chunk.css",
+    "static/js/main.18063750.chunk.js"
+  ]
+}
